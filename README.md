@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DinkinsX. Cyber programmer from Russia Federation 
+- 👋 Hi, I’m @DinkinsX. Сybersecurity programmer from Russia Federation 
 
 <!---
 DinkinsX/DinkinsX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
